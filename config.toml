@@ -1,0 +1,93 @@
+baseurl = "http://www.eagleyesystems.com/"
+title = "Eagle Eye Systems"
+theme = "hugo-universal-theme"
+languageCode = "en-us"
+
+[params]
+  style = "blue"
+  email = "sunilrathour@eagleyesystems.com"
+
+  about_us = "<p>To bolster the cyber security defenses of all types of businesses and recommend solutions to mitigate the risk of being hacked, resulting in the theft of confidential data, damage to reputation and financial losses.</p>"
+  copyright = "Copyright (c) 2016, Eagle Eye Systems Asia Limited; All Rights Reserved."
+  date_format = "2006-01-02"
+  logo = "images/Eagle-Eye-Systems-Asia-Ltd-Blue2.png"
+  address = """
+    <p>
+      <strong>Eagle Eye Systems (EES) Asia Limited</strong>
+      <br>6th Floor, Cyberport 3E
+      <br>Telegraph Bay
+      <br>Hong Kong
+      <p>Office: (+852) 3706 8657</p>
+      <br>Contact: sunilrathour@eagleyesystems.com
+    </p>
+    """
+    latitude = "22.259516"
+    longitude = "114.131966"
+
+[[params.menu]]
+    name = "About"
+    url  = "/about/"
+    weight = 1
+
+[[params.menu]]
+    name = "Services"
+    url  = "/services/"
+    weight = 2
+
+[[params.menu]]
+    name = "White Papers"
+    url  = "/whitepapers/"
+    weight = 3
+
+[[params.menu]]
+    name = "Press Release"
+    url  = "/press/"
+    weight = 4
+
+[[params.menu]]
+    name = "Terms and Conditions"
+    url  = "/terms/"
+    weight = 5
+
+[[params.menu]]
+    name = "Contact"
+    url  = "/contact/"
+    weight = 6
+
+[params.carousel]
+  enable = true
+
+[params.features]
+    enable = true
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.testimonials]
+    enable = false
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Testimonials"
+    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+
+[params.see_more]
+    enable = false
+    icon = "fa fa-file-code-o"
+    title = "Do you want to see more?"
+    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    link_url = "#"
+    link_text = "Check other homepages"
+
+[params.clients]
+    enable = false
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Our Clients"
+    subtitle = ""
+
+[params.recent_posts]
+    enable = false
+    title = "From our blog"
+    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."

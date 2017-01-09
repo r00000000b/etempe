@@ -1,0 +1,5 @@
+weight: 3
+name: "Security Operations and Network Operations"
+icon: "fa fa-lock"
+description: "Employee awareness training programmes with the goal of aligning technology, employees and processes to collectively work towards blocking cyber threats."
+url: "soc"

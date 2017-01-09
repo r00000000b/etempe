@@ -1,0 +1,5 @@
+weight: 1
+name: "Penetration Tests"
+icon: "fa fa-check-square-o "
+description: "The testing of a computer system, IT network or Web applications to identify vulnerabilities that a hacker could exploit to launch a cyber attack."
+url: "pentest"
