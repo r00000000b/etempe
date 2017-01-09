@@ -1,0 +1,34 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+.carousel-image {
+  width: 100%;
+}
+
+.carousel-inner {
+  height: 90vh;
+}
+
+.carousel-caption {
+  bottom: 0px;
+  top: 50px;
+  color: #FFF;
+}
+
+.carousel-caption > h2, h4 {
+  text-align: center;
+  color: #FFF;
+}
+
+.static-content > ul, li {
+  text-align: left;
+  color: #000;
+}
