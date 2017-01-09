@@ -1,4 +1,4 @@
-baseurl = "http://www.eagleyesystems.com/"
+baseurl = "/"
 title = "Eagle Eye Systems"
 theme = "hugo-universal-theme"
 languageCode = "en-us"

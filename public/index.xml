@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eagle Eye Systems</title>
-    <link>http://www.eagleyesystems.com/index.xml</link>
+    <link>/index.xml</link>
     <description>Recent content on Eagle Eye Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016, Eagle Eye Systems Asia Limited; All Rights Reserved.</copyright>
-    <atom:link href="http://www.eagleyesystems.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://www.eagleyesystems.com/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.eagleyesystems.com/about/</guid>
+      <guid>/about/</guid>
       <description>
 
 &lt;h1 id=&#34;about-us&#34;&gt;About Us&lt;/h1&gt;
@@ -69,10 +69,10 @@
     
     <item>
       <title></title>
-      <link>http://www.eagleyesystems.com/baseline/</link>
+      <link>/baseline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.eagleyesystems.com/baseline/</guid>
+      <guid>/baseline/</guid>
       <description>
 
 &lt;h1 id=&#34;baseline-methodology-assessment-and-audit&#34;&gt;BASELINE METHODOLOGY ASSESSMENT AND AUDIT&lt;/h1&gt;
@@ -177,10 +177,10 @@
     
     <item>
       <title></title>
-      <link>http://www.eagleyesystems.com/it/</link>
+      <link>/it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.eagleyesystems.com/it/</guid>
+      <guid>/it/</guid>
       <description>
 
 &lt;h1 id=&#34;it-security-awareness-training&#34;&gt;IT Security Awareness Training&lt;/h1&gt;
@@ -239,10 +239,10 @@
     
     <item>
       <title></title>
-      <link>http://www.eagleyesystems.com/pentest/</link>
+      <link>/pentest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.eagleyesystems.com/pentest/</guid>
+      <guid>/pentest/</guid>
       <description>
 
 &lt;h1 id=&#34;penetration-tests&#34;&gt;PENETRATION TESTS&lt;/h1&gt;
@@ -299,10 +299,10 @@
     
     <item>
       <title></title>
-      <link>http://www.eagleyesystems.com/press/</link>
+      <link>/press/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.eagleyesystems.com/press/</guid>
+      <guid>/press/</guid>
       <description>
 
 &lt;h2 id=&#34;ees-asia-launches-online-platform-to-share-cyber-security-white-papers-industry-news-advice&#34;&gt;EES Asia launches online platform to share cyber security white papers, industry news &amp;amp; advice&lt;/h2&gt;
@@ -319,10 +319,10 @@
     
     <item>
       <title></title>
-      <link>http://www.eagleyesystems.com/security/</link>
+      <link>/security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.eagleyesystems.com/security/</guid>
+      <guid>/security/</guid>
       <description>
 
 &lt;h1 id=&#34;security-incident-response&#34;&gt;SECURITY INCIDENT RESPONSE&lt;/h1&gt;
@@ -367,10 +367,10 @@
     
     <item>
       <title></title>
-      <link>http://www.eagleyesystems.com/soc/</link>
+      <link>/soc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.eagleyesystems.com/soc/</guid>
+      <guid>/soc/</guid>
       <description>
 
 &lt;h1 id=&#34;security-operations-network-operations-centre&#34;&gt;Security Operations &amp;amp; Network Operations Centre&lt;/h1&gt;
@@ -415,10 +415,10 @@
     
     <item>
       <title></title>
-      <link>http://www.eagleyesystems.com/terms/</link>
+      <link>/terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.eagleyesystems.com/terms/</guid>
+      <guid>/terms/</guid>
       <description>
 
 &lt;h1 id=&#34;terms-and-conditions&#34;&gt;Terms and Conditions&lt;/h1&gt;
@@ -548,10 +548,10 @@ by writing to or emailing us at: sunilrathour@eagleyesystems.com&lt;/li&gt;
     
     <item>
       <title></title>
-      <link>http://www.eagleyesystems.com/whitepapers/</link>
+      <link>/whitepapers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.eagleyesystems.com/whitepapers/</guid>
+      <guid>/whitepapers/</guid>
       <description>
 
 &lt;h2 id=&#34;corporate-counsel-departments-are-urged-to-prepare-for-inevitable-cyber-attacks-in-alm-legal-intelligence-study&#34;&gt;Corporate counsel departments are urged to prepare for “inevitable” cyber attacks in ALM Legal Intelligence study&lt;/h2&gt;

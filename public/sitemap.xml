@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.eagleyesystems.com/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>http://www.eagleyesystems.com/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>http://www.eagleyesystems.com/baseline/</loc>
+    <loc>/baseline/</loc>
   </url>
   
   <url>
-    <loc>http://www.eagleyesystems.com/it/</loc>
+    <loc>/it/</loc>
   </url>
   
   <url>
-    <loc>http://www.eagleyesystems.com/pentest/</loc>
+    <loc>/pentest/</loc>
   </url>
   
   <url>
-    <loc>http://www.eagleyesystems.com/press/</loc>
+    <loc>/press/</loc>
   </url>
   
   <url>
-    <loc>http://www.eagleyesystems.com/security/</loc>
+    <loc>/security/</loc>
   </url>
   
   <url>
-    <loc>http://www.eagleyesystems.com/soc/</loc>
+    <loc>/soc/</loc>
   </url>
   
   <url>
-    <loc>http://www.eagleyesystems.com/terms/</loc>
+    <loc>/terms/</loc>
   </url>
   
   <url>
-    <loc>http://www.eagleyesystems.com/whitepapers/</loc>
+    <loc>/whitepapers/</loc>
   </url>
   
 </urlset>
