@@ -24,35 +24,40 @@ languageCode = "en-us"
     latitude = "22.259516"
     longitude = "114.131966"
 
-[[params.menu]]
+[[params.menu.main]]
     name = "About"
     url  = "/about/"
-    weight = 1
+    weight = -111
 
-[[params.menu]]
+[[params.menu.main]]
     name = "Services"
-    url  = "/services/"
-    weight = 2
+    weight = -110
 
-[[params.menu]]
+[[params.menu.main]]
+    parent = "Services"
+    name = "Baseline"
+    url  = "/baseline"
+    weight = -109
+
+[[params.menu.main]]
     name = "White Papers"
     url  = "/whitepapers/"
-    weight = 3
+    weight = -100
 
-[[params.menu]]
+[[params.menu.main]]
     name = "Press Release"
     url  = "/press/"
-    weight = 4
+    weight = -99
 
-[[params.menu]]
+[[params.menu.main]]
     name = "Terms and Conditions"
     url  = "/terms/"
-    weight = 5
+    weight = -98
 
-[[params.menu]]
+[[params.menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 6
+    weight = -97
 
 [params.carousel]
   enable = true

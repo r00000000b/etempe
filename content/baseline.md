@@ -2,7 +2,7 @@ BASELINE METHODOLOGY ASSESSMENT AND AUDIT
 ===================
 
 
-Main-Operation-Centre1024x845.jpg
+![main-operation-centre] (../images/baseline/Main-Operation-Centre1024x845.jpg)
 
 
 Cyber Security, Risk Mitigation & Advanced Threat Solutions
@@ -15,7 +15,7 @@ This unique assessment involves systematic and theoretical analysis of a company
 We do not set out to provide solutions. Our Baseline Methodology Assessment report documents the findings of our investigation and presents recommendations and “best practices” applicable to specific areas where a company’s cyber security defences are deemed inadequate, or even non-existent.
 
 
-network-to-server1024x845-1-1024x845.jpg
+![network-to-server] (../images/baseline/network-to-server1024x845-1-1024x845.jpg)
 
 
 Risk Model
@@ -28,7 +28,7 @@ Early in the life cycle, security concerns may be identified in the architecture
 Failure to tighten cyber security defences may impact organisations in terms of: financial loss, damage to reputation, non-compliance, loss of accountability, privacy violation, loss of confidentiality, and may result in company being taken off-line.
 
 
-Penetration-tests-wall-monitor1024x845.png
+![pen-test-wall-monitor] (../images/baseline/Penetration-tests-wall-monitor1024x845.png)
 
 
 Dashboard: Interactive Gauges & Scorecard
@@ -46,7 +46,7 @@ IT Network Infrastructure
 Penetration Tests form the foundation of the IT network assessment. The duration of these tests depends on the number of IP Addresses and internal and external attack surfaces within an IT network that a hacker may exploit.
 
 
-Personal-Cyber-Security1024x724.jpg
+![personal-cyber-security] (../images/baseline/Personal-Cyber-Security1024x724.jpg)
 
 
 Attack Surface Analysis
@@ -57,7 +57,7 @@ As part of EES Asia’s holistic approach to assessment methodology, we review t
 This includes the services presented; trusted ingress (inbound) traffic, and trusted egress (outgoing) traffic; and human attack surfaces, such as, corporate social media profile and employee’s social media activity.
 
 
-Modern-Workplace1024x845.jpg
+![modern-workplace] (../images/baseline/Modern-Workplace1024x845.jpg)
 
 
 Network & Systems Agility
@@ -70,7 +70,7 @@ An IT network’s oversight and maintenance, performance management, service lev
 An agile network & systems model is predicated on the avoidance of “brittleness.” We use this term to refer to technical architecture or implementation that can withstand only a very limited attack prior to a failure affecting commercial operations, owing to the existence of an undefended core.
 
 
-monitors-and-binary1024x845.png
+![monitor] (../images/baseline/monitors-and-binary1024x845.png)
 
 
 Defensive Elements & Layers
@@ -83,7 +83,7 @@ The presence, coverage and risk mitigation capability of each component in this 
 Defensive Elements are the network, servers and clients, while the Defensive Layers are the perimeter, network, host, application and data.
 
 
-Digital-Fingerprint1024x845.jpg
+![digital-fingerprint] (../images/baseline/Digital-Fingerprint1024x845.jpg)
 
 
 Identity Access Management (IAM)
@@ -98,7 +98,7 @@ Poorly controlled IAM processes may lead to regulatory non-compliance because if
 Authentication examines: account policy, password policy, and the authentication model.
 
 
-National-Security-Agency.jpg
+![national-security-agency] (../images/baseline/National-Security-Agency.jpg)
 
 
 Intelligence & Analytics
@@ -114,7 +114,7 @@ Environment Analysis: Signal to Noise
 Environment Analysis, or “Signal to Noise,” assessment is one of the most important responsibilities of the information security professional, to ensure management has the sufficient data to make well-informed business decisions.
 
 
-HK-stock-exchange1024x845.jpg
+![hk-stock-exchange] (../images/baseline/HK-stock-exchange1024x845.jpg)
 
 
 **Certification Programme**
@@ -124,3 +124,5 @@ Eagle Eye Systems Asia Ltd offers Certification of Achievement Awards for a sele
 **Business Continuity Plans**
 
 As defined by the Hong Kong Securities and Futures Commission in June 2014, licensed corporations are expected to “establish and maintain appropriate internal controls and risk management measures to protect your key business functions and recover them in a timely fashion in the event of operational disruptions,” the SFC states.
+
+
