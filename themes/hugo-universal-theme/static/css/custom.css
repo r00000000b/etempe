@@ -9,8 +9,14 @@
   min-height: 230px;
 }
 
+.carousel .item {
+  width: 100%;
+  height: 90vh;
+}
+
 .carousel-inner > .item > img {
   width: 100%;
+  margin: auto;
 }
 
 .carousel-caption {
