@@ -2,7 +2,9 @@ Corporate counsel departments are urged to prepare for “inevitable” cyber at
 ------------------------------------------------------------------------
 
 <div id="law-hammer" class="full-width"></div>
-________________________________________________________________________
+
+_______________________________________________________________
+
 
 The majority of big companies have been hacked and may not even be aware of the breach that is estimated to cost on average US$6.5 million, while the pay outs have accumulated to billions of US dollars since 2014, including Anthem at between $100 million and $16 billion, and JPMorgan Chase at $1 billion dollars, according to US federal authorities and cyber security experts.
 
@@ -20,7 +22,9 @@ Prevention systems alone are insufficient to combat hard-core hacks: SANS Whitep
 ------------------------------------------------------------------------
 
 <div id="cyber-threat" class="full-width"></div>
-_________________________________________________________________________
+
+_______________________________________________________________
+
 
 “The chances are very high that hidden threats are already in your organisation’s networks. Organisations can’t afford to believe that their security measures are perfect and impenetrable, no matter how thorough their security precautions might be,” according to a SANS Institute Whitepaper by Robert M. Lee and Rob Lee, entitled, ‘The Who, What, Where, When, Why and How of Effective Threat Hunting.’
 
@@ -41,7 +45,8 @@ Four Approaches to Critical Incident Response: Selecting the Best Fit: Solutiona
 
 <div id="malware-warning" class="full-width"></div>
 
-________________________________________________________________________
+_______________________________________________________________
+
 
 Even those in the security business know preventive security measures are not enough to stop malware infiltrations and other security threats completely, according to a whitepaper produced by Solutionary, an NTT Group Security Company.
 
