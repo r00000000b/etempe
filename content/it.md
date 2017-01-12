@@ -1,8 +1,8 @@
 IT Security Awareness Training
 ==============================
 
+<div id="security-training" class="full-width"></div>
 
-Security-Awareness-Training-Class.jpg
 
 
 EES Asia’s Security Awareness Training Teaches Staff How to Adapt Behaviour to Lower Attack Risk
@@ -27,8 +27,7 @@ To overcome this shortfall, many of our clients are optimizing their existing hu
 
 Security leaders need these management skills to set up the appropriate processes and procedures, advocate for security requirements, and communicate risk to corporate leaders. Defensive technologies cannot be used to their full potential without highly skilled people who can transform data into actionable intelligence.
 
-
-Database-Laptops-Manikins1024x685.jpg
+<div id="database" class="full-width"></div>
 
 
 Leadership and Accountability
@@ -45,8 +44,7 @@ An informed and vigilant workforce is one of the most important defences against
 
 An effective “human firewall” is dependent on a culture of vigilance for changing user behaviour to mitigate the risk of attack. The best employee training programmes simulate real-world hackers and provide on-the-spot training when employees fall victim to cybercrime.
 
-
-Board-Meeting-Black-White1024x865.jpg
+<div id="board-meeting" class="full-width"></div>
 
 
 Cybercrime is a business risk: Hackers hunt for intellectual property, business critical assets
@@ -60,5 +58,6 @@ Cybercrime causes “enormous damage” that “not only relates to financial lo
 
 Traditionally, the hackers were keen to steal cash and credit card information, now they are also interested in acquiring intellectual property and other business critical assets, Mr McConkey asserts.
 
+<iframe id="youtube" src="//www.youtube.com/embed/4rAQv9-EEH8"></iframe>
 
-https://www.youtube.com/watch?v=4rAQv9-EEH8
+_________________________________________________________________________

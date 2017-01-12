@@ -18,15 +18,17 @@
             </div>
             <!--/.navbar-header -->
 
+
             <div class="navbar-collapse collapse" id="navigation">
                 <ul class="nav navbar-nav navbar-right">
-                    {{ range .Site.Params.menu }}
-                    <li class="dropdown">
-                        <a href="{{ .url }}">{{ .name }}</a>
-                    </li>
+                    {{ range .Site.Params.menu.main }}
+                        <li class="dropdown">
+                            <a href="{{ .url }}">{{ .name }}</a>
+                        </li>
                     {{ end }}
                 </ul>
             </div>
+
             <!--/.nav-collapse -->
 
             <div class="collapse clearfix" id="search">
