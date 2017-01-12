@@ -9,12 +9,8 @@
   min-height: 230px;
 }
 
-.carousel-image {
+.carousel-inner > .item > img {
   width: 100%;
-}
-
-.carousel-inner {
-  height: 90vh;
 }
 
 .carousel-caption {
