@@ -1,8 +1,7 @@
 SECURITY INCIDENT RESPONSE
 ==========================
 
-
-Security-Incident-Response-Help-Button1023x482.jpg
+<div id="incident-response" class="full-width"></div>
 
 
 Security Incident Response
@@ -18,8 +17,7 @@ Computer Security Incident Management is a specialized form of Security Incident
 
 The key areas of Security Incident Response are: Incident Recognition; Initial Incident Response; Active Defence; Forensic Protection; Incident Relations; Quarantine Triage; Investigatory Participation; Business Continuity; Disaster Recovery; and Re-Homing Preparations to move public folders from infected or hacked file, database and email servers, to “clean” servers.
 
-
-Security-Incident-Response-Protect-Data-Key1024x845.png
+<div id="protect-data" class="full-width"></div>
 
 
 Four members of alleged securities fraud scheme tied to cyber hack of JP Morgan arrested in US, Israel
@@ -41,4 +39,6 @@ Earlier a US government spokesman announced at a press conference that hackers s
 
 The spokesman added, “Sophisticated hacking to steal material non-public information is something the defendants allegedly discussed for the next stage of their sprawling criminal enterprise.”
 
-Source: https://youtu.be/PU4mq0qbto0
+<iframe id="youtube" src="//www.youtube.com/embed/PU4mq0qbto0"></iframe>
+
+_________________________________________________________________________

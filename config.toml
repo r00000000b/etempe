@@ -34,12 +34,6 @@ languageCode = "en-us"
     weight = -110
 
 [[params.menu.main]]
-    parent = "Services"
-    name = "Baseline"
-    url  = "/baseline"
-    weight = -109
-
-[[params.menu.main]]
     name = "White Papers"
     url  = "/whitepapers/"
     weight = -100

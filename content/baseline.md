@@ -1,8 +1,7 @@
 BASELINE METHODOLOGY ASSESSMENT AND AUDIT
 ===================
 
-
-![main-operation-centre] (../images/baseline/Main-Operation-Centre1024x845.jpg)
+<div id="main-operation-centre" class="full-width"></div>
 
 
 Cyber Security, Risk Mitigation & Advanced Threat Solutions
@@ -14,8 +13,7 @@ This unique assessment involves systematic and theoretical analysis of a company
 
 We do not set out to provide solutions. Our Baseline Methodology Assessment report documents the findings of our investigation and presents recommendations and “best practices” applicable to specific areas where a company’s cyber security defences are deemed inadequate, or even non-existent.
 
-
-![network-to-server] (../images/baseline/network-to-server1024x845-1-1024x845.jpg)
+<div id="network-to-server" class="full-width"></div>
 
 
 Risk Model
@@ -27,8 +25,7 @@ Early in the life cycle, security concerns may be identified in the architecture
 
 Failure to tighten cyber security defences may impact organisations in terms of: financial loss, damage to reputation, non-compliance, loss of accountability, privacy violation, loss of confidentiality, and may result in company being taken off-line.
 
-
-![pen-test-wall-monitor] (../images/baseline/Penetration-tests-wall-monitor1024x845.png)
+<div id="pen-test" class="full-width"></div>
 
 
 Dashboard: Interactive Gauges & Scorecard
@@ -45,8 +42,7 @@ IT Network Infrastructure
 
 Penetration Tests form the foundation of the IT network assessment. The duration of these tests depends on the number of IP Addresses and internal and external attack surfaces within an IT network that a hacker may exploit.
 
-
-![personal-cyber-security] (../images/baseline/Personal-Cyber-Security1024x724.jpg)
+<div id="personal-cyber-security" class="full-width"></div>
 
 
 Attack Surface Analysis
@@ -56,8 +52,7 @@ As part of EES Asia’s holistic approach to assessment methodology, we review t
 
 This includes the services presented; trusted ingress (inbound) traffic, and trusted egress (outgoing) traffic; and human attack surfaces, such as, corporate social media profile and employee’s social media activity.
 
-
-![modern-workplace] (../images/baseline/Modern-Workplace1024x845.jpg)
+<div id="modern-workplace" class="full-width"></div>
 
 
 Network & Systems Agility
@@ -69,8 +64,7 @@ An IT network’s oversight and maintenance, performance management, service lev
 
 An agile network & systems model is predicated on the avoidance of “brittleness.” We use this term to refer to technical architecture or implementation that can withstand only a very limited attack prior to a failure affecting commercial operations, owing to the existence of an undefended core.
 
-
-![monitor] (../images/baseline/monitors-and-binary1024x845.png)
+<div id="monitor" class="full-width"></div>
 
 
 Defensive Elements & Layers
@@ -82,8 +76,7 @@ The presence, coverage and risk mitigation capability of each component in this 
 
 Defensive Elements are the network, servers and clients, while the Defensive Layers are the perimeter, network, host, application and data.
 
-
-![digital-fingerprint] (../images/baseline/Digital-Fingerprint1024x845.jpg)
+<div id="digital-fingerprint" class="full-width"></div>
 
 
 Identity Access Management (IAM)
@@ -97,8 +90,7 @@ Poorly controlled IAM processes may lead to regulatory non-compliance because if
 
 Authentication examines: account policy, password policy, and the authentication model.
 
-
-![national-security-agency] (../images/baseline/National-Security-Agency.jpg)
+<div id="national-security-agency" class="full-width"></div>
 
 
 Intelligence & Analytics
@@ -113,16 +105,18 @@ Environment Analysis: Signal to Noise
 
 Environment Analysis, or “Signal to Noise,” assessment is one of the most important responsibilities of the information security professional, to ensure management has the sufficient data to make well-informed business decisions.
 
+<div id="hk-stock-exchange" class="full-width"></div>
 
-![hk-stock-exchange] (../images/baseline/HK-stock-exchange1024x845.jpg)
 
 
-**Certification Programme**
+Certification Programme
+--------------------------------------
 
 Eagle Eye Systems Asia Ltd offers Certification of Achievement Awards for a select number of essential skills or services demanded by best practice policies and procedures within the IT industry, with the assistance of skilled and experienced industry instructors.
 
-**Business Continuity Plans**
+Business Continuity Plans
+---------------------------------------
 
 As defined by the Hong Kong Securities and Futures Commission in June 2014, licensed corporations are expected to “establish and maintain appropriate internal controls and risk management measures to protect your key business functions and recover them in a timely fashion in the event of operational disruptions,” the SFC states.
 
-
+___

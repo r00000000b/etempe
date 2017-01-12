@@ -1,6 +1,9 @@
 Corporate counsel departments are urged to prepare for “inevitable” cyber attacks in ALM Legal Intelligence study
 ------------------------------------------------------------------------
 
+<div id="law-hammer" class="full-width"></div>
+________________________________________________________________________
+
 The majority of big companies have been hacked and may not even be aware of the breach that is estimated to cost on average US$6.5 million, while the pay outs have accumulated to billions of US dollars since 2014, including Anthem at between $100 million and $16 billion, and JPMorgan Chase at $1 billion dollars, according to US federal authorities and cyber security experts.
 
 Faced with an uptick in cyber security attacks and potential costs, corporations and their legal departments are starting to heighten preventive awareness and improve detection after being hacked, says a research paper by three senior analysts at ALM Legal Intelligence.
@@ -9,14 +12,15 @@ Faced with an uptick in cyber security attacks and potential costs, corporations
 
 “This research reveals why cyber security matters to each and every company and the ways companies and corporate counsel departments can prepare for and react to inevitable cyber attacks,” the authors of the research paper warn.
 
-https://www.sans.org/reading-room/whitepapers/analyst/who-what-where-when-effective-threat-hunting-36785
+[Read Full Document](https://www.sans.org/reading-room/whitepapers/analyst/who-what-where-when-effective-threat-hunting-36785)
 
-
-Law-Hammer-and-Book1024x683-1.jpg
 
 
 Prevention systems alone are insufficient to combat hard-core hacks: SANS Whitepaper
 ------------------------------------------------------------------------
+
+<div id="cyber-threat" class="full-width"></div>
+_________________________________________________________________________
 
 “The chances are very high that hidden threats are already in your organisation’s networks. Organisations can’t afford to believe that their security measures are perfect and impenetrable, no matter how thorough their security precautions might be,” according to a SANS Institute Whitepaper by Robert M. Lee and Rob Lee, entitled, ‘The Who, What, Where, When, Why and How of Effective Threat Hunting.’
 
@@ -26,14 +30,18 @@ Prevention systems alone are insufficient to combat hard-core hacks: SANS Whitep
 
 “This process is referred to as “cyber threat hunting.” Many organisations today do some type of formal or informal hunting. For example, rather than waiting for the “you’ve been breached” notification, they are intermittently or constantly searching through their own networks for evidence of threat activity.”
 
-http://www.infinitespada.com/news/wp-content/uploads/2016/01/Infinite-Spada-Cybersecurity-and-Corporate-Counsel_Ignorance-is-Risk.pdf
+[Read Full Document](http://www.infinitespada.com/news/wp-content/uploads/2016/01/Infinite-Spada-Cybersecurity-and-Corporate-Counsel_Ignorance-is-Risk.pdf)
 
 
-Cyber-Threat-Hunting-SANS-Institute-Whitepaper-Resources1024x683.jpg
+
 
 
 Four Approaches to Critical Incident Response: Selecting the Best Fit: Solutionary Whitepaper
 ------------------------------------------------------------------------
+
+<div id="malware-warning" class="full-width"></div>
+
+________________________________________________________________________
 
 Even those in the security business know preventive security measures are not enough to stop malware infiltrations and other security threats completely, according to a whitepaper produced by Solutionary, an NTT Group Security Company.
 
@@ -49,14 +57,19 @@ Even those in the security business know preventive security measures are not en
 
 The whitepaper briefly outlines four approaches to help an organisation determine its incident response capabilities and recommends measures to implement to be best prepared to contend with a security breach.
 
-https://www.solutionary.com/_assets/pdf/white-papers/critical-incident-repsonse-executive-brief.pdf
+[Read Full Document](https://www.solutionary.com/_assets/pdf/white-papers/critical-incident-repsonse-executive-brief.pdf)
 
 
-Malware-Warning1024x819.jpg
+
 
 
 Legal sector plays “catch-up” in understanding, implementing corporate cyber security imperative: ALM Legal Intelligence
 ------------------------------------------------------------------------
+
+<div id="law-court" class="full-width"></div>
+
+________________________________________________________________________
+
 
 “Confronted with an uptick in cyber attacks and the increasing demands of their clients, law firms are scrambling to come to terms with an evolving cybersecurity landscape that not only poses an unprecedented, existential threat to the confidentiality and trust inherent in the attorney-client relationship, but also presents new revenue opportunities for the practice of law around issues related to data, privacy and information security.”
 
@@ -72,7 +85,6 @@ Fulfilling Due Care and Pursuing Best Practices; and Cyber Opportunity, Data, Pr
 
 In addition, the report contains a set of tools that introduces cybersecurity best practices, overviews the current regulatory environment, and lists cybersecurity trends to monitor.
 
-http://www.infinitespada.com/news/wp-content/uploads/2016/01/Infinite-Spada-Cybersecurity-and-Law-Firms_Ignorance-is-Risk.pdf
+[Read Full Document](http://www.infinitespada.com/news/wp-content/uploads/2016/01/Infinite-Spada-Cybersecurity-and-Law-Firms_Ignorance-is-Risk.pdf)
 
-
-Law-Court-Resources-Whitepaper1024x768.jpg
+________________________________________________________________________

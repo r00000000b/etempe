@@ -1,7 +1,7 @@
 Security Operations & Network Operations Centre
 ===============================================
 
-European-Space-Agency-Control-Centra1024x422-1.jpg
+<div id="euro-space-agency" class="full-width"></div>
 
 
 Security & Network Operations Centre (SOC/NOC)
@@ -13,8 +13,7 @@ Given the sensitive nature of IT environments, we offer active, passive and host
 
 NOC is responsible for monitoring and maintaining the overall network infrastructure. Its primary function is to ensure uninterrupted network service.
 
-
-soc-noc-monitors-1024x640.png
+<div id="soc-noc-monitors" class="full-width"></div>
 
 
 SOC
@@ -28,8 +27,8 @@ The SOC also monitors applications to identify a possible cyberattack or intrusi
 
 EES Asia has processes and procedures built into our SOC to clearly spell out the roles, responsibilities and monitoring procedures. They cover business, technology, operational and analytical processes. We lay out the steps to be taken in the event of an security alert or breach, such as escalation, reporting and breach response procedures.
 
+<div id="soc-no-server" class="full-width"></div>
 
-SOC-NO-Server-Monitor1024x837.png
 
 
 Hack of toy maker VTech exposes 5 million accounts, kids’ photos & chats
@@ -43,5 +42,6 @@ VTech said in a statement the hackers, “Exposed the names, emails, passwords, 
 
 She continues, ”When you have company as big as VTech not doing the basics when it comes to security and protecting your data it should show you we have a huge cybersecurity problem on our hands. Companies need to invest in security before they get hacked not after.”
 
+<iframe id="youtube" src="//www.youtube.com/embed/j8aD_AWQXsQ"></iframe>
 
-https://www.youtube.com/watch?v=j8aD_AWQXsQ
+_________________________________________________________________________
