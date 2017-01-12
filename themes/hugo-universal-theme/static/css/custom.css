@@ -9,12 +9,14 @@
   min-height: 230px;
 }
 
-.carousel-image {
+.carousel .item {
   width: 100%;
+  height: 90%;
 }
 
-.carousel-inner {
-  height: 90vh;
+.carousel-inner > .item > img {
+  width: 100%;
+  margin: auto;
 }
 
 .carousel-caption {
@@ -26,9 +28,168 @@
 .carousel-caption > h2, h4 {
   text-align: center;
   color: #FFF;
+  font-size: 20px;
+}
+
+@media (min-width: 1280px) {
+  .carousel-caption > h2, h4 {
+    font-size: 30px;
+  }
 }
 
 .static-content > ul, li {
   text-align: left;
   color: #000;
+}
+
+/*** Images on Page ***/
+
+.full-width {
+  background-size: cover;
+  width: 100%;
+  height: 50vh;
+}
+
+.info-graphic {
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+
+/*About*/
+#binary-face {
+  background-image: url(../images/about/binary-face1024x768.jpg);
+}
+
+#youtube {
+  width: 100%;
+  height: 80vh;
+}
+
+/*Services*/
+#services-infographic {
+  background-image: url(../images/services/Cyber-Security-Infographic1024x406.jpg);
+  height: 500px;
+}
+
+#services-infographics2 {
+  background-image: url(../images/services/cybersecurity-infographic-uk-govt.-2-shorter.png);
+  height: 690px;
+}
+
+#services-infographic3 {
+  background-image: url(../images/services/Cyber-Security-Infographic1024x1024.jpg);
+  height: 1050px;
+}
+
+/*Baseline*/
+#main-operation-centre {
+  background-image: url(../images/baseline/Main-Operation-Centre1024x845.jpg);
+}
+
+#network-to-server {
+  background-image: url(../images/baseline/network-to-server1024x845-1-1024x845.jpg);
+}
+
+#pen-test {
+  background-image: url(../images/baseline/Penetration-tests-wall-monitor1024x845.png);
+}
+
+#personal-cyber-security {
+  background-image: url(../images/baseline/Personal-Cyber-Security1024x724.jpg);
+}
+
+#modern-workplace {
+  background-image: url(../images/baseline/Modern-Workplace1024x845.jpg);
+}
+
+#monitor {
+  background-image: url(../images/baseline/monitors-and-binary1024x845.png);
+}
+
+#digital-fingerprint {
+  background-image: url(../images/baseline/Digital-Fingerprint1024x845.jpg);
+}
+
+#national-security-agency {
+  background-image: url(../images/baseline/National-Security-Agency.jpg);
+}
+
+#hk-stock-exchange {
+  background-image: url(../images/baseline/HK-stock-exchange1024x845.jpg);
+}
+
+/*Penetration Test*/
+#pen-test-arrow {
+  background-image: url(../images/pentest/Penetration-Test-Arrow-Walls1024x405.jpg);
+}
+
+#pen-test-security-breach {
+  background-image: url(../images/pentest/penetration-test-Security-Breach1024x832.png);
+}
+
+#coverage-testing {
+  background-image: url(../images/pentest/Penetration-Testing1024x845.png);
+}
+
+#pen-test-infographic {
+  background-image: url(../images/pentest/Pen-Test-Infographic1024x845.jpg);
+  height: 890px;
+}
+
+/* Security & Networks Center*/
+#euro-space-agency {
+  background-image: url(../images/socnoc/European-Space-Agency-Control-Centra1024x422-1.jpg);
+}
+
+#soc-noc-monitors {
+  background-image: url(../images/socnoc/soc-noc-monitors-1024x640.png);
+}
+
+#soc-no-server {
+  background-image: url(../images/socnoc/SOC-NO-Server-Monitor1024x837.png);
+}
+
+/*Security Incident Response*/
+#incident-response {
+  background-image: url(../images/security/Security-Incident-Response-Help-Button1023x482.jpg);
+}
+
+#protect-data {
+  background-image: url(../images/security/Security-Incident-Response-Protect-Data-Key1024x845.png);
+}
+
+/* IT Security Awareness Training */
+#security-training {
+  background-image: url(../images/it/Security-Awareness-Training-Class.jpg);
+}
+
+#database {
+  background-image: url(../images/it/Database-Laptops-Manikins1024x685.jpg);
+}
+
+#board-meeting {
+  background-image: url(../images/it/Board-Meeting-Black-White1024x865.jpg);
+}
+
+/*Whitepapers*/
+#law-hammer {
+  background-image: url(../images/whitepapers/Law-Hammer-and-Book1024x683-1.jpg);
+}
+
+#cyber-threat {
+  background-image: url(../images/whitepapers/Cyber-Threat-Hunting-SANS-Institute-Whitepaper-Resources1024x683.jpg);
+}
+
+#malware-warning {
+  background-image: url(../images/whitepapers/Malware-Warning1024x819.jpg);
+}
+
+#law-court {
+  background-image: url(../images/whitepapers/Law-Court-Resources-Whitepaper1024x768.jpg);
+}
+
+/*Press Release*/
+#pen-testing {
+  background-image: url(../images/press/Penetration-Testing1024x845-2.png);
 }

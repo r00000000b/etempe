@@ -35,8 +35,7 @@ In the event of a business being hacked, our cyber security experts are on call 
 
 CEO Eagle Eye Systems Asia Ltd, Sunil Rathour.
 
-
-binary-face1024x768.jpg
+<div id="binary-face" class="full-width"></div>
 
 
 Experts urge enterprises to tighten cyber security before hack, not focus on clean-up job afterwards
@@ -52,4 +51,7 @@ Organisations are being urged to address IT security issues, and abandon the tra
 
 The Sony hack cost the studio tens of millions of US dollars, revealed the personal information of tens of thousands of people, exposed embarrassing email exchanges between high-powered actors and executives, and one top executive lost her job, reported CNBC one year later.
 
-https://www.youtube.com/watch?v=VNXeBZuo8eM
+
+<iframe id="youtube" src="//www.youtube.com/embed/VNXeBZuo8eM"></iframe>
+
+_________
