@@ -1,6 +1,7 @@
 Services
 ========
-![infographic] (../images/services/Cyber-Security-Infographic1024x406.jpg)
+
+<div id="services-infographic" class="info-graphic"></div>
 
 Our Services
 ------------
@@ -64,6 +65,8 @@ Our Services
         </div>
     </div>
 </section>
+
+
 UK Government’s Cyber Security Advice For Businesses
 ----------------------------------------------------
 
@@ -81,7 +84,8 @@ Apply security patches and ensure that the secure configuration of all ICT syste
 MONITORING
 Establish a monitoring strategy and produce supporting policies. Continuously monitor all ICT systems and networks. Analyse logs for unusual activity that could indicate a cyberattack.
 
-![infographic2] (../images/services/cybersecurity-infographic-uk-govt.-2-shorter.png)
+
+<div id="services-infographics2" class="info-graphic"></div>
 
 
 Corporate cybercrimes surge to 59 million in 2015, but could be fraction of true figure: PwC survey
@@ -97,4 +101,6 @@ It continues, “Only 37 per cent of the surveyed organisations have a cyber inc
 
 Another PwC study, the ‘Global State of Information Security Survey 2016,’ states that “the number of 2015 corporate cybercrime incidents stands at 59 million – most likely a fraction of the true figure.”
 
-![infographic3] (../images/services/Cyber-Security-Infographic1024x1024.jpg)
+<div id="services-infographic3" class="info-graphic"></div>
+
+_____________________________________________________________

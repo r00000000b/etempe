@@ -37,6 +37,12 @@
   height: 50vh;
 }
 
+.info-graphic {
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+
 /*About*/
 #binary-face {
   background-image: url(../images/about/binary-face1024x768.jpg);
@@ -48,6 +54,20 @@
 }
 
 /*Services*/
+#services-infographic {
+  background-image: url(../images/services/Cyber-Security-Infographic1024x406.jpg);
+  height: 70vh;
+}
+
+#services-infographics2 {
+  background-image: url(../images/services/cybersecurity-infographic-uk-govt.-2-shorter.png);
+  height: 90vh;
+}
+
+#services-infographic3 {
+  background-image: url(../images/services/Cyber-Security-Infographic1024x1024.jpg);
+  height: 120vh;
+}
 
 /*Baseline*/
 #main-operation-centre {
@@ -101,9 +121,7 @@
 
 #pen-test-infographic {
   background-image: url(../images/pentest/Pen-Test-Infographic1024x845.jpg);
-  background-repeat: no-repeat;
-  width: 100%;
-  height: 850px;
+  height: 110vh;
 }
 
 /* Security & Networks Center*/
