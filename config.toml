@@ -31,6 +31,7 @@ languageCode = "en-us"
 
 [[params.menu.main]]
     name = "Services"
+    url  = "/services/"
     weight = -110
 
 [[params.menu.main]]
