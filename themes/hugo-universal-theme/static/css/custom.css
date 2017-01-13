@@ -198,3 +198,8 @@
 blockquote {
   font-size: 24px;
 }
+
+/*Blog Images*/
+#ransomware {
+  background-image: url(../images/blog/Apple-Gatekeeper975x450.jpg);
+}
