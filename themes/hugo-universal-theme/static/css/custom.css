@@ -25,14 +25,14 @@
   color: #FFF;
 }
 
-.carousel-caption > h2, h4 {
+.carousel-caption > h2 {
   text-align: center;
   color: #FFF;
   font-size: 20px;
 }
 
 @media (min-width: 1280px) {
-  .carousel-caption > h2, h4 {
+  .carousel-caption > h2 {
     font-size: 30px;
   }
 }
@@ -192,4 +192,14 @@
 /*Press Release*/
 #pen-testing {
   background-image: url(../images/press/Penetration-Testing1024x845.png);
+}
+
+/*Blockquotes*/
+blockquote {
+  font-size: 24px;
+}
+
+/*Blog Images*/
+#ransomware {
+  background-image: url(../images/blog/Apple-Gatekeeper975x450.jpg);
 }
