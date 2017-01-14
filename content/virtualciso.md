@@ -1,5 +1,8 @@
-Virtual CiSO
+Virtual CISO
 ============
+
+<div id="vciso-poster" class="info-graphic"></div>
+____________________________________________________
 
 >> "The CISO is the senior-level executive within an organization responsible for establishing and maintaining the enterprise vision, strategy, and program to ensure information assets and technologies are adequately protected. The CISO directs staff in identifying, developing, implementing and maintaining processes across the enterprise to reduce information and information technology (IT) risks. They respond to incidents, establish appropriate standards and controls, manage security technologies, and direct the establishment and implementation of policies and procedures."
 
