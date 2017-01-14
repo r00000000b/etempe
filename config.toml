@@ -91,3 +91,8 @@ languageCode = "en-us"
     enable = true
     title = "From our blog"
     subtitle = "Keep up to date with EES!"
+
+[params.widgets]
+    search = true
+    categories = true
+    tags = true

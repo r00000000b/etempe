@@ -9,6 +9,8 @@ author = "Sabine Borgia"
 
 ## Eagle Eye Systems (EES) Asia Ltd has launched a new website to serve as an online platform for sharing IT security industry news, trends and concern topics, white papers, and independent expert advice to help educate enterprises and their employees about cyber security and how to prevent attacks.
 
+<div id="whitepaper" class="full-width"></div>
+
 "The idea is to point people in the right direction to expert information and independent reports that they may overlook as they may not be aware of the reputable sources of information available online because they lack  a deep understanding of the IT security industry," said Sunil Rathour, CEO, Eagle Eye Securities (EES) Asia.
 
 "Cyber attacks are rising on a global scale at a dramatic rate. No company, no matter its size, is immune to hacks, even the likes of Apple and Linux, as the cyber criminals are becoming increasingly cunning and the attacks are becoming more difficult to detect. Many companies simply aren’t aware they’ve been hacked until months later," observed Sunil.
