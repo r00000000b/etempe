@@ -9,6 +9,6 @@ ________________________________________________________________________
 
 “The idea is to point people in the right direction to expert information and independent reports that they may overlook as they may not be aware of the reputable sources of information available online because they lack  a deep understanding of the IT security industry,” said Sunil Rathour, CEO, Eagle Eye Securities (EES) Asia.
 
-[Read More](http://www.webeyesystems.com/ees-asia-launches-online-platform-to-share-cyber-security-white-papers-industry-news-advice/)
+[Read More](../blog/WhitePaperShare/)
 
 ________________________________________________________________________
