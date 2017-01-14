@@ -172,6 +172,12 @@
   background-image: url(../images/it/Board-Meeting-Black-White1024x865.jpg);
 }
 
+/*Virtual CiSO*/
+#vciso-poster {
+  background-image: url(../images/vciso/vCiSO-1-Pager-V2.png);
+  height: 650px;
+}
+
 /*Whitepapers*/
 #law-hammer {
   background-image: url(../images/whitepapers/Law-Hammer-and-Book1024x683-1.jpg);
