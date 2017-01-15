@@ -61,6 +61,16 @@ Our Services
                         <h4><a href="../baseline/">Read More</a></h4>
                     </div>
                 </div>
+                <div class="col-md-4">
+                    <div class="box-simple">
+                        <div class="icon">
+                            <i class="fa  fa-arrows"></i>
+                        </div>
+                        <h3><a href="../virtualciso/">Virtual CiSO</a></h3>
+                        <p>Provides executive-level professional to undertake the activities of the Chief Information Security Officer on your behalf.</p>
+                        <h4><a href="../virtualciso/">Read More</a></h4>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

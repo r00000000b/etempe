@@ -172,6 +172,12 @@
   background-image: url(../images/it/Board-Meeting-Black-White1024x865.jpg);
 }
 
+/*Virtual CiSO*/
+#vciso-poster {
+  background-image: url(../images/vciso/vCiSO-1-Pager-V2.png);
+  height: 730px;
+}
+
 /*Whitepapers*/
 #law-hammer {
   background-image: url(../images/whitepapers/Law-Hammer-and-Book1024x683-1.jpg);
@@ -200,6 +206,25 @@ blockquote {
 }
 
 /*Blog Images*/
+#fortification {
+  background-image: url(../images/blog/Hong-Kong-Monetary-Authority1024x766.jpg);
+}
+
 #ransomware {
   background-image: url(../images/blog/Apple-Gatekeeper975x450.jpg);
+}
+
+#transactions {
+  background-image: url(../images/blog/Hong-Kong-Stock-Exchange-Inside1024x768.jpg);
+}
+
+#whitepaper {
+  background-image: url(../images/press/Penetration-Testing1024x845.png);
+}
+#natwest-bank {
+  background-image: url(../images/blog/NatWest-Bank-Branch-UK1024x768.png);
+}
+
+#banco-del-austro {
+  background-image: url(../images/blog/Banco-Del-Austro-2-1024x712.png);
 }
