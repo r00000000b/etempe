@@ -1,4 +1,4 @@
-baseurl = "http://staging.eagleye-hk.com"
+baseurl = "http://staging.eagleye-hk.com/"
 title = "Eagle Eye Systems"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
