@@ -93,6 +93,6 @@ languageCode = "en-us"
     subtitle = "Industry News & Insight"
 
 [params.widgets]
-    search = true
+    search = false
     categories = true
     tags = true
